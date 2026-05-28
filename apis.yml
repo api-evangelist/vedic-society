@@ -1,0 +1,32 @@
+aid: vedic-society
+name: Vedic Society
+description: "Descriptions of all nouns (names, places, animals, things) from vedic literature"
+url: https://aninditabasu.github.io/indica/html/vs.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Books"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Books
+  - Public APIs
+apis:
+  - name: Vedic Society
+    description: "Descriptions of all nouns (names, places, animals, things) from vedic literature"
+    humanURL: https://aninditabasu.github.io/indica/html/vs.html
+    baseURL: https://aninditabasu.github.io/indica/html/vs.html
+    tags:
+      - Books
+    properties:
+      - type: Documentation
+        url: https://aninditabasu.github.io/indica/html/vs.html
+common:
+  - type: Website
+    url: https://aninditabasu.github.io/indica/html/vs.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
