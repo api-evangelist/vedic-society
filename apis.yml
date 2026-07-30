@@ -1,4 +1,16 @@
 aid: vedic-society
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vedic-society.png
 name: Vedic Society
 description: "Descriptions of all nouns (names, places, animals, things) from vedic literature"
 url: https://aninditabasu.github.io/indica/html/vs.html
