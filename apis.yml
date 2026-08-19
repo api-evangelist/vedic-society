@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vedic-soci
 name: Vedic Society
 description: "Descriptions of all nouns (names, places, animals, things) from vedic literature"
 url: https://aninditabasu.github.io/indica/html/vs.html
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
