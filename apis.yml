@@ -39,7 +39,6 @@ apis:
   - name: Vedic Society
     description: "Descriptions of all nouns (names, places, animals, things) from vedic literature"
     humanURL: https://aninditabasu.github.io/indica/html/vs.html
-    baseURL: https://aninditabasu.github.io/indica/html/vs.html
     tags:
       - Books
     properties:
